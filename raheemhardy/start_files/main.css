@@ -1,0 +1,18 @@
+
+
+.col7{width:70%;display: inline-block;}
+.col6{width:58%;display: inline-block;}
+.col5{width:50%;display: inline-block;}
+.col4{width:39%;display: inline-block;}
+
+
+header {height:120px;border-bottom:#ccc 2px solid;}
+header .logo_box {width:300px;height: 100px;background:green;}
+header .logo{color:white;font-size:24px;}
+
+nav ul{list-style-type: none;padding: 0;margin: 0;}
+nav ul li{display: inline;color:#ccc;}
+nav ul li:not(:first-child):before {content: " | ";}
+section.content{background:#e1e1e1;padding:30px 40px;}
+section article{background: white;padding:20px;}
+

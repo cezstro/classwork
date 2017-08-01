@@ -1,0 +1,4 @@
+a:hover:last-child {color:red;text-transform:uppercase;};
+a:last-child{font-size:33px};
+a:nth-child(2){background: #ccc;}
+a:hover{color:orange;background:black;padding:5px;display:block;
